@@ -1,0 +1,15 @@
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\bin\Debug\net8.0\Итоговая работа в псевдокоде.exe
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\bin\Debug\net8.0\Итоговая работа в псевдокоде.deps.json
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\bin\Debug\net8.0\Итоговая работа в псевдокоде.runtimeconfig.json
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\bin\Debug\net8.0\Итоговая работа в псевдокоде.dll
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\bin\Debug\net8.0\Итоговая работа в псевдокоде.pdb
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.csproj.AssemblyReference.cache
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.GeneratedMSBuildEditorConfig.editorconfig
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.AssemblyInfoInputs.cache
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.AssemblyInfo.cs
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.csproj.CoreCompileInputs.cache
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.dll
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\refint\Итоговая работа в псевдокоде.dll
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.pdb
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\Итоговая работа в псевдокоде.genruntimeconfig.cache
+D:\Papochka Zootopia\Donald (and Git)\Итоговая контрольная работа\Итоговая работа в псевдокоде\obj\Debug\net8.0\ref\Итоговая работа в псевдокоде.dll
